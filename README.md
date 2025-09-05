@@ -22,7 +22,7 @@ O primeiro passo foi criar um recurso de **Serviços Cognitivos** no portal do A
 
 
 
-![Criação do Recurso no Azure](images/criar_recurso.png)
+![Criação do Recurso no Azure](criar_recurso.png)
 
 ### 2. Análise de Sentimentos no Language Studio
 

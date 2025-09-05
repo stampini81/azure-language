@@ -55,7 +55,6 @@ Este desafio foi uma excelente oportunidade para aplicar de forma prática os co
 ## 🔗 Links Úteis
 
 * [Documentação do Azure Language Studio](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/language-studio)
-* [Documentação do Azure Speech Studio](https://learn.microsoft.com/pt-br/azure/ai-services/speech-service/speech-studio)
-* [Meu Perfil na DIO](https://web.dio.me/users/SEU_USUARIO_AQUI)
+* [Meu Perfil na DIO](https://www.dio.me/users/leandro_stampini)
 
 ---

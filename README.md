@@ -20,9 +20,9 @@ Este laboratório prático focou na utilização do Azure Language Studio para r
 
 O primeiro passo foi criar um recurso de **Serviços Cognitivos** no portal do Azure. Este recurso centraliza os serviços de linguagem e fala, fornecendo as chaves de API e o ponto de extremidade necessários para acessar os estúdios de IA.
 
-*(Opcional: Insira aqui uma captura de tela do seu recurso criado no Azure. Crie uma pasta `/images` no seu repositório para organizá-las.)*
 
-![Criação do Recurso no Azure](images/01-azure-resource.png)
+
+![Criação do Recurso no Azure](images/criar_recurso.png)
 
 ### 2. Análise de Sentimentos no Language Studio
 
@@ -40,18 +40,13 @@ Foram submetidos textos com diferentes cargas emocionais para observar a respost
 
 A ferramenta conseguiu identificar com precisão o sentimento geral de cada frase e, no caso do texto misto, foi capaz de apontar os sentimentos associados a cada aspecto (aspect-based sentiment analysis).
 
-*(Insira aqui as capturas de tela dos seus testes no Language Studio)*
 
-![Análise de Sentimento Positivo](images/02-positive-sentiment.png)
-![Análise de Sentimento Misto](images/03-mixed-sentiment.png)
 
 ### 3. (Opcional) Exploração do Speech Studio
 
 Para complementar o estudo, explorei o **Speech Studio** para entender como os serviços de voz e linguagem podem ser integrados. Realizei um teste simples de **Speech-to-text** (Fala para Texto), onde um áudio foi transcrito. O texto resultante poderia ser, em uma aplicação real, enviado diretamente para a API de Análise de Sentimentos.
 
-*(Insira aqui uma captura de tela do Speech Studio, se aplicável)*
 
-![Teste no Speech Studio](images/04-speech-studio.png)
 
 ## ✨ Conclusão
 
